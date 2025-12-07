@@ -8,7 +8,7 @@
 
 
 body {
-    background-color: #555555;
+    background-color: #dadada;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ body {
     margin: 20px;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 3px 3px 1px 1px rgb(0, 0, 0);
+    box-shadow: 2px 2px 1px 1px rgb(0, 0, 0);
 }
 
 .search {
